@@ -1,8 +1,9 @@
 " Item "," Description "," Quantity "," Lead time "," Price "
-" PCB prototype "," Y7-13303142A, Black, 1.6mm thickness, HASL (with lead) "," 5 pcs "," 3 days ",4
-" PCBA assembly "," SMT026082463147-13303142A, Bottom side assembly "," 5 pcs "," 3-4 days ","41.52 "
-Shipping,,,,21.32
+" PCB prototype "," Y7-13303142A, Black, 1.6mm thickness, HASL (with lead) "," 5 pcs "," 3 days ",4.10
+Shipping,,,,21.74
 Coupons,,,,-10
-Subtotal,,,,56.84
-Customs & Freight Contingency,,,,10
-Total,,,,66.84
+Subtotal,,,,15.54
+Customs & Freight Contingency,,,,6.98
+Total,,,,32.8
+Parts,https://hu.farnell.com/nxp/nt2h1311f0dtlh/nfc-tag-reader-13-56mhz-hxson/dp/2423768,5 pcs,,18
+Final Total,,,,51

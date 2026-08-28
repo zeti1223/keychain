@@ -49,16 +49,15 @@ The project features a compact, printed circuit board (PCB) based NFC keychain w
 | Item | Description | Quantity | Lead time | Price |
 |------|-------------|----------|-----------|-------|
 | PCB prototype | Y7-13303142A, Black, 1.6mm thickness, HASL (with lead) | 5 pcs | 3 days | $4.00 |
-| PCBA assembly | SMT026082463147-13303142A, Bottom side assembly | 5 pcs | 3-4 days | $41.52 |
 
 ### Summary
 
-- **Merchandise Total**: $45.52
-- **Shipping Estimated**: $21.32
+- **Merchandise Total**: $4.10
+- **Shipping Estimated**: $21.44
 - **Coupons**: -$10.00
-- **Subtotal**: $56.84
-- **Weight**: 0.41kg
-- **Est. shipping date**: 2026-08-30
+- **Subtotal**: 15.54$
+- **Weight**: 0.14kg
+- **Est. shipping date**: 2026-08-31
 
 ![JLCPCB Order](images/jlcpcb-order.png)
 
